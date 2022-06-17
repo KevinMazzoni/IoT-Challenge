@@ -1,0 +1,1075 @@
+DEBUG (1): Application booted.
+DEBUG (1): Radio on on node 1!
+DEBUG (1): Mote 1, Timer fired, counter is 1.
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:0.976562510 
+DEBUG (1): Packet sent... at time 0:0:0.984222377 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:0.984222377 
+DEBUG (1): Packet sent... at time 0:0:0.989166196 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:0.989166196 
+DEBUG (1): Packet sent... at time 0:0:0.998855470 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:0.998855470 
+DEBUG (1): Packet sent... at time 0:0:1.006027059 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.006027059 
+DEBUG (1): Packet sent... at time 0:0:1.016998065 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.016998065 
+DEBUG (1): Packet sent... at time 0:0:1.024429051 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.024429051 
+DEBUG (1): Packet sent... at time 0:0:1.026275354 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.026275354 
+DEBUG (1): Packet sent... at time 0:0:1.033218063 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.033218063 
+DEBUG (1): Packet sent... at time 0:0:1.037612568 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.037612568 
+DEBUG (1): Packet sent... at time 0:0:1.047027186 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.047027186 
+DEBUG (1): Packet sent... at time 0:0:1.054473432 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.054473432 
+DEBUG (1): Packet sent... at time 0:0:1.058318624 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.058318624 
+DEBUG (1): Packet sent... at time 0:0:1.063643910 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.063643910 
+DEBUG (1): Packet sent... at time 0:0:1.068267297 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.068267297 
+DEBUG (1): Packet sent... at time 0:0:1.070250928 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.070250928 
+DEBUG (1): Packet sent... at time 0:0:1.075332075 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.075332075 
+DEBUG (1): Packet sent... at time 0:0:1.085494369 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.085494369 
+DEBUG (1): Packet sent... at time 0:0:1.093642515 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.093642515 
+DEBUG (1): Packet sent... at time 0:0:1.102202645 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.102202645 
+DEBUG (1): Packet sent... at time 0:0:1.108168797 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.108168797 
+DEBUG (1): Packet sent... at time 0:0:1.111464676 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.111464676 
+DEBUG (1): Packet sent... at time 0:0:1.117964882 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.117964882 
+DEBUG (1): Packet sent... at time 0:0:1.120024807 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.120024807 
+DEBUG (1): Packet sent... at time 0:0:1.129134251 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.129134251 
+DEBUG (1): Packet sent... at time 0:0:1.136824636 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.136824636 
+DEBUG (1): Packet sent... at time 0:0:1.142439837 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.142439837 
+DEBUG (1): Packet sent... at time 0:0:1.149382546 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.149382546 
+DEBUG (1): Packet sent... at time 0:0:1.155226628 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.155226628 
+DEBUG (1): Packet sent... at time 0:0:1.160002601 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.160002601 
+DEBUG (1): Packet sent... at time 0:0:1.166426514 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.166426514 
+DEBUG (1): Packet sent... at time 0:0:1.174467849 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.174467849 
+DEBUG (1): Packet sent... at time 0:0:1.180235637 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.180235637 
+DEBUG (1): Packet sent... at time 0:0:1.183165308 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.183165308 
+DEBUG (1): Packet sent... at time 0:0:1.185240491 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.185240491 
+DEBUG (1): Packet sent... at time 0:0:1.191618627 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.191618627 
+DEBUG (1): Packet sent... at time 0:0:1.202284459 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.202284459 
+DEBUG (1): Packet sent... at time 0:0:1.204573264 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.204573264 
+DEBUG (1): Packet sent... at time 0:0:1.211683818 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.211683818 
+DEBUG (1): Packet sent... at time 0:0:1.221907147 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.221907147 
+DEBUG (1): Packet sent... at time 0:0:1.230055293 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.230055293 
+DEBUG (1): Packet sent... at time 0:0:1.236235066 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.236235066 
+DEBUG (1): Packet sent... at time 0:0:1.240904228 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.240904228 
+DEBUG (1): Packet sent... at time 0:0:1.245466580 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.245466580 
+DEBUG (1): Packet sent... at time 0:0:1.253950417 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.253950417 
+DEBUG (1): Packet sent... at time 0:0:1.256758018 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.256758018 
+DEBUG (1): Packet sent... at time 0:0:1.261030454 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.261030454 
+DEBUG (1): Packet sent... at time 0:0:1.265501253 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.265501253 
+DEBUG (1): Packet sent... at time 0:0:1.275297338 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.275297338 
+DEBUG (1): Packet sent... at time 0:0:1.277342004 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.277342004 
+DEBUG (1): Packet sent... at time 0:0:1.279600292 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.279600292 
+DEBUG (1): Packet sent... at time 0:0:1.286481965 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.286481965 
+DEBUG (1): Packet sent... at time 0:0:1.297437712 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.297437712 
+DEBUG (1): Packet sent... at time 0:0:1.303510674 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.303510674 
+DEBUG (1): Packet sent... at time 0:0:1.307752593 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.307752593 
+DEBUG (1): Packet sent... at time 0:0:1.310651746 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.310651746 
+DEBUG (1): Packet sent... at time 0:0:1.314329093 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.314329093 
+DEBUG (1): Packet sent... at time 0:0:1.319761190 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.319761190 
+DEBUG (1): Packet sent... at time 0:0:1.326215620 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.326215620 
+DEBUG (1): Packet sent... at time 0:0:1.328916410 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.328916410 
+DEBUG (1): Packet sent... at time 0:0:1.332746344 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.332746344 
+DEBUG (1): Packet sent... at time 0:0:1.337919043 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.337919043 
+DEBUG (1): Packet sent... at time 0:0:1.344999080 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.344999080 
+DEBUG (1): Packet sent... at time 0:0:1.349546172 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.349546172 
+DEBUG (1): Packet sent... at time 0:0:1.355085080 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.355085080 
+DEBUG (1): Packet sent... at time 0:0:1.356900866 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.356900866 
+DEBUG (1): Packet sent... at time 0:0:1.360212004 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.360212004 
+DEBUG (1): Packet sent... at time 0:0:1.368939980 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.368939980 
+DEBUG (1): Packet sent... at time 0:0:1.370954128 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.370954128 
+DEBUG (1): Packet sent... at time 0:0:1.376325191 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.376325191 
+DEBUG (1): Packet sent... at time 0:0:1.383405228 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.383405228 
+DEBUG (1): Packet sent... at time 0:0:1.389447673 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.389447673 
+DEBUG (1): Packet sent... at time 0:0:1.393018209 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.393018209 
+DEBUG (1): Packet sent... at time 0:0:1.400906957 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.400906957 
+DEBUG (1): Packet sent... at time 0:0:1.410703042 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.410703042 
+DEBUG (1): Packet sent... at time 0:0:1.416104622 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.416104622 
+DEBUG (1): Packet sent... at time 0:0:1.420987406 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.420987406 
+DEBUG (1): Packet sent... at time 0:0:1.424252768 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.424252768 
+DEBUG (1): Packet sent... at time 0:0:1.432110998 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.432110998 
+DEBUG (1): Packet sent... at time 0:0:1.434949116 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.434949116 
+DEBUG (1): Packet sent... at time 0:0:1.444028043 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.444028043 
+DEBUG (1): Packet sent... at time 0:0:1.454007233 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.454007233 
+DEBUG (1): Packet sent... at time 0:0:1.463665990 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.463665990 
+DEBUG (1): Packet sent... at time 0:0:1.473050090 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.473050090 
+DEBUG (1): Packet sent... at time 0:0:1.481259271 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.481259271 
+DEBUG (1): Packet sent... at time 0:0:1.487454303 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.487454303 
+DEBUG (1): Packet sent... at time 0:0:1.495037877 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.495037877 
+DEBUG (1): Packet sent... at time 0:0:1.497525045 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.497525045 
+DEBUG (1): Packet sent... at time 0:0:1.506680265 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.506680265 
+DEBUG (1): Packet sent... at time 0:0:1.516644196 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.516644196 
+DEBUG (1): Packet sent... at time 0:0:1.523586905 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.523586905 
+DEBUG (1): Packet sent... at time 0:0:1.531231513 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.531231513 
+DEBUG (1): Packet sent... at time 0:0:1.535458173 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.535458173 
+DEBUG (1): Packet sent... at time 0:0:1.541348031 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.541348031 
+DEBUG (1): Packet sent... at time 0:0:1.549770834 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.549770834 
+DEBUG (1): Packet sent... at time 0:0:1.552517400 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.552517400 
+DEBUG (1): Packet sent... at time 0:0:1.556484662 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.556484662 
+DEBUG (1): Packet sent... at time 0:0:1.565594106 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.565594106 
+DEBUG (1): Packet sent... at time 0:0:1.569607144 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.569607144 
+DEBUG (1): Packet sent... at time 0:0:1.578716588 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.578716588 
+DEBUG (1): Packet sent... at time 0:0:1.584347048 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.584347048 
+DEBUG (1): Packet sent... at time 0:0:1.586529042 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.586529042 
+DEBUG (1): Packet sent... at time 0:0:1.594951844 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.594951844 
+DEBUG (1): Packet sent... at time 0:0:1.603405164 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.603405164 
+DEBUG (1): Packet sent... at time 0:0:1.614421946 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.614421946 
+DEBUG (1): Packet sent... at time 0:0:1.621044221 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.621044221 
+DEBUG (1): Packet sent... at time 0:0:1.630046854 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.630046854 
+DEBUG (1): Packet sent... at time 0:0:1.637996637 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.637996637 
+DEBUG (1): Packet sent... at time 0:0:1.649166006 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.649166006 
+DEBUG (1): Packet sent... at time 0:0:1.656596992 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.656596992 
+DEBUG (1): Packet sent... at time 0:0:1.662364781 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.662364781 
+DEBUG (1): Packet sent... at time 0:0:1.667537480 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.667537480 
+DEBUG (1): Packet sent... at time 0:0:1.669658440 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.669658440 
+DEBUG (1): Packet sent... at time 0:0:1.671443708 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.671443708 
+DEBUG (1): Packet sent... at time 0:0:1.680080132 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.680080132 
+DEBUG (1): Packet sent... at time 0:0:1.684322050 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.684322050 
+DEBUG (1): Packet sent... at time 0:0:1.693324683 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.693324683 
+DEBUG (1): Packet sent... at time 0:0:1.704036291 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.704036291 
+DEBUG (1): Packet sent... at time 0:0:1.711986073 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.711986073 
+DEBUG (1): Packet sent... at time 0:0:1.723124924 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.723124924 
+DEBUG (1): Packet sent... at time 0:0:1.731303588 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.731303588 
+DEBUG (1): Packet sent... at time 0:0:1.742274593 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.742274593 
+DEBUG (1): Packet sent... at time 0:0:1.747035307 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.747035307 
+DEBUG (1): Packet sent... at time 0:0:1.757945278 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.757945278 
+DEBUG (1): Packet sent... at time 0:0:1.767802398 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.767802398 
+DEBUG (1): Packet sent... at time 0:0:1.772471560 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.772471560 
+DEBUG (1): Packet sent... at time 0:0:1.782786441 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.782786441 
+DEBUG (1): Packet sent... at time 0:0:1.793711671 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.793711671 
+DEBUG (1): Packet sent... at time 0:0:1.800868001 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.800868001 
+DEBUG (1): Packet sent... at time 0:0:1.808710973 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.808710973 
+DEBUG (1): Packet sent... at time 0:0:1.813166513 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.813166513 
+DEBUG (1): Packet sent... at time 0:0:1.820811122 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.820811122 
+DEBUG (1): Packet sent... at time 0:0:1.824824160 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.824824160 
+DEBUG (1): Packet sent... at time 0:0:1.833094375 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.833094375 
+DEBUG (1): Packet sent... at time 0:0:1.837763538 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.837763538 
+DEBUG (1): Packet sent... at time 0:0:1.843546585 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.843546585 
+DEBUG (1): Packet sent... at time 0:0:1.846964534 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.846964534 
+DEBUG (1): Packet sent... at time 0:0:1.854685436 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.854685436 
+DEBUG (1): Packet sent... at time 0:0:1.861551851 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.861551851 
+DEBUG (1): Packet sent... at time 0:0:1.872248200 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.872248200 
+DEBUG (1): Packet sent... at time 0:0:1.882135837 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.882135837 
+DEBUG (1): Packet sent... at time 0:0:1.893137360 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.893137360 
+DEBUG (1): Packet sent... at time 0:0:1.897089363 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.897089363 
+DEBUG (1): Packet sent... at time 0:0:1.899042477 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.899042477 
+DEBUG (1): Packet sent... at time 0:0:1.906854931 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.906854931 
+DEBUG (1): Packet sent... at time 0:0:1.910776417 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.910776417 
+DEBUG (1): Packet sent... at time 0:0:1.920831900 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.920831900 
+DEBUG (1): Packet sent... at time 0:0:1.924905973 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.924905973 
+DEBUG (1): Packet sent... at time 0:0:1.934122228 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.934122228 
+DEBUG (1): Packet sent... at time 0:0:1.944559179 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.944559179 
+DEBUG (1): Mote 1, Timer fired, counter is 2.
+DEBUG (1): Packet sent... at time 0:0:1.955331821 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.955331821 
+DEBUG (1): Packet sent... at time 0:0:1.958917616 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.958917616 
+DEBUG (1): Packet sent... at time 0:0:1.969583447 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.969583447 
+DEBUG (1): Packet sent... at time 0:0:1.972085874 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.972085874 
+DEBUG (1): Packet sent... at time 0:0:1.974923992 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.974923992 
+DEBUG (1): Packet sent... at time 0:0:1.984140247 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.984140247 
+DEBUG (1): Packet sent... at time 0:0:1.986322241 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.986322241 
+DEBUG (1): Packet sent... at time 0:0:1.991617010 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.991617010 
+DEBUG (1): Packet sent... at time 0:0:1.998468166 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:1.998468166 
+DEBUG (1): Packet sent... at time 0:0:2.001672493 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.001672493 
+DEBUG (1): Packet sent... at time 0:0:2.010064778 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.010064778 
+DEBUG (1): Packet sent... at time 0:0:2.016778606 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.016778606 
+DEBUG (1): Packet sent... at time 0:0:2.021676649 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.021676649 
+DEBUG (1): Packet sent... at time 0:0:2.027246074 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.027246074 
+DEBUG (1): Packet sent... at time 0:0:2.029916347 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.029916347 
+DEBUG (1): Packet sent... at time 0:0:2.039147860 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.039147860 
+DEBUG (1): Packet sent... at time 0:0:2.049706881 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.049706881 
+DEBUG (1): Packet sent... at time 0:0:2.060830473 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.060830473 
+DEBUG (1): Packet sent... at time 0:0:2.071297941 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.071297941 
+DEBUG (1): Packet sent... at time 0:0:2.076653745 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.076653745 
+DEBUG (1): Packet sent... at time 0:0:2.085229134 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.085229134 
+DEBUG (1): Packet sent... at time 0:0:2.093468832 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.093468832 
+DEBUG (1): Packet sent... at time 0:0:2.101052406 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.101052406 
+DEBUG (1): Packet sent... at time 0:0:2.110467024 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.110467024 
+DEBUG (1): Packet sent... at time 0:0:2.115899121 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.115899121 
+DEBUG (1): Packet sent... at time 0:0:2.124138819 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.124138819 
+DEBUG (1): Packet sent... at time 0:0:2.131371443 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.131371443 
+DEBUG (1): Packet sent... at time 0:0:2.137185008 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.137185008 
+DEBUG (1): Packet sent... at time 0:0:2.147103163 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.147103163 
+DEBUG (1): Packet sent... at time 0:0:2.150826285 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.150826285 
+DEBUG (1): Packet sent... at time 0:0:2.157952098 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.157952098 
+DEBUG (1): Packet sent... at time 0:0:2.168175427 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.168175427 
+DEBUG (1): Packet sent... at time 0:0:2.172722520 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.172722520 
+DEBUG (1): Packet sent... at time 0:0:2.177284871 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.177284871 
+DEBUG (1): Packet sent... at time 0:0:2.186318022 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.186318022 
+DEBUG (1): Packet sent... at time 0:0:2.190834597 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.190834597 
+DEBUG (1): Packet sent... at time 0:0:2.195992037 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.195992037 
+DEBUG (1): Packet sent... at time 0:0:2.203163626 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.203163626 
+DEBUG (1): Packet sent... at time 0:0:2.208015893 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.208015893 
+DEBUG (1): Packet sent... at time 0:0:2.212334105 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.212334105 
+DEBUG (1): Packet sent... at time 0:0:2.222053897 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.222053897 
+DEBUG (1): Packet sent... at time 0:0:2.226051676 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.226051676 
+DEBUG (1): Packet sent... at time 0:0:2.236702249 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.236702249 
+DEBUG (1): Packet sent... at time 0:0:2.239860800 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.239860800 
+DEBUG (1): Packet sent... at time 0:0:2.247307046 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.247307046 
+DEBUG (1): Packet sent... at time 0:0:2.253532595 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.253532595 
+DEBUG (1): Packet sent... at time 0:0:2.262581004 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.262581004 
+DEBUG (1): Packet sent... at time 0:0:2.266807664 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.266807664 
+DEBUG (1): Packet sent... at time 0:0:2.275749262 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.275749262 
+DEBUG (1): Packet sent... at time 0:0:2.279426609 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.279426609 
+DEBUG (1): Packet sent... at time 0:0:2.287315357 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.287315357 
+DEBUG (1): Packet sent... at time 0:0:2.295890746 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.295890746 
+DEBUG (1): Packet sent... at time 0:0:2.305580021 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.305580021 
+DEBUG (1): Packet sent... at time 0:0:2.310035561 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.310035561 
+DEBUG (1): Packet sent... at time 0:0:2.313468769 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.313468769 
+DEBUG (1): Packet sent... at time 0:0:2.320304666 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.320304666 
+DEBUG (1): Packet sent... at time 0:0:2.327811947 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.327811947 
+DEBUG (1): Packet sent... at time 0:0:2.330207563 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.330207563 
+DEBUG (1): Packet sent... at time 0:0:2.341376931 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.341376931 
+DEBUG (1): Packet sent... at time 0:0:2.352058021 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.352058021 
+DEBUG (1): Packet sent... at time 0:0:2.360770739 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.360770739 
+DEBUG (1): Packet sent... at time 0:0:2.364554896 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.364554896 
+DEBUG (1): Packet sent... at time 0:0:2.370780446 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.370780446 
+DEBUG (1): Packet sent... at time 0:0:2.377570567 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.377570567 
+DEBUG (1): Packet sent... at time 0:0:2.387946483 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.387946483 
+DEBUG (1): Packet sent... at time 0:0:2.394156774 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.394156774 
+DEBUG (1): Packet sent... at time 0:0:2.403586651 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.403586651 
+DEBUG (1): Packet sent... at time 0:0:2.410819275 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.410819275 
+DEBUG (1): Packet sent... at time 0:0:2.414923865 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.414923865 
+DEBUG (1): Packet sent... at time 0:0:2.418433366 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.418433366 
+DEBUG (1): Packet sent... at time 0:0:2.421332519 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.421332519 
+DEBUG (1): Packet sent... at time 0:0:2.429572217 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.429572217 
+DEBUG (1): Packet sent... at time 0:0:2.431571107 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.431571107 
+DEBUG (1): Packet sent... at time 0:0:2.436499667 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.436499667 
+DEBUG (1): Packet sent... at time 0:0:2.439353044 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.439353044 
+DEBUG (1): Packet sent... at time 0:0:2.446845065 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.446845065 
+DEBUG (1): Packet sent... at time 0:0:2.454474415 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.454474415 
+DEBUG (1): Packet sent... at time 0:0:2.462637820 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.462637820 
+DEBUG (1): Packet sent... at time 0:0:2.465659043 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.465659043 
+DEBUG (1): Packet sent... at time 0:0:2.468100435 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.468100435 
+DEBUG (1): Packet sent... at time 0:0:2.476294356 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.476294356 
+DEBUG (1): Packet sent... at time 0:0:2.480231101 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.480231101 
+DEBUG (1): Packet sent... at time 0:0:2.488119849 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.488119849 
+DEBUG (1): Packet sent... at time 0:0:2.494681090 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.494681090 
+DEBUG (1): Packet sent... at time 0:0:2.502722425 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.502722425 
+DEBUG (1): Packet sent... at time 0:0:2.506384513 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.506384513 
+DEBUG (1): Packet sent... at time 0:0:2.509054785 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.509054785 
+DEBUG (1): Packet sent... at time 0:0:2.513403515 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.513403515 
+DEBUG (1): Packet sent... at time 0:0:2.518667766 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.518667766 
+DEBUG (1): Packet sent... at time 0:0:2.520895537 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.520895537 
+DEBUG (1): Packet sent... at time 0:0:2.529348856 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.529348856 
+DEBUG (1): Packet sent... at time 0:0:2.537558037 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.537558037 
+DEBUG (1): Packet sent... at time 0:0:2.541174349 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.541174349 
+DEBUG (1): Packet sent... at time 0:0:2.552160613 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.552160613 
+DEBUG (1): Packet sent... at time 0:0:2.558828665 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.558828665 
+DEBUG (1): Packet sent... at time 0:0:2.562734892 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.562734892 
+DEBUG (1): Packet sent... at time 0:0:2.569463979 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.569463979 
+DEBUG (1): Packet sent... at time 0:0:2.580297656 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.580297656 
+DEBUG (1): Packet sent... at time 0:0:2.590414174 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.590414174 
+DEBUG (1): Packet sent... at time 0:0:2.598775941 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.598775941 
+DEBUG (1): Packet sent... at time 0:0:2.603002601 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.603002601 
+DEBUG (1): Packet sent... at time 0:0:2.612646100 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.612646100 
+DEBUG (1): Packet sent... at time 0:0:2.617452590 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.617452590 
+DEBUG (1): Packet sent... at time 0:0:2.624044349 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.624044349 
+DEBUG (1): Packet sent... at time 0:0:2.627431780 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.627431780 
+DEBUG (1): Packet sent... at time 0:0:2.638158646 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.638158646 
+DEBUG (1): Packet sent... at time 0:0:2.642659963 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.642659963 
+DEBUG (1): Packet sent... at time 0:0:2.653066396 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.653066396 
+DEBUG (1): Packet sent... at time 0:0:2.661168766 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.661168766 
+DEBUG (1): Packet sent... at time 0:0:2.666448276 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.666448276 
+DEBUG (1): Packet sent... at time 0:0:2.673589347 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.673589347 
+DEBUG (1): Packet sent... at time 0:0:2.680181106 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.680181106 
+DEBUG (1): Packet sent... at time 0:0:2.690465470 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.690465470 
+DEBUG (1): Packet sent... at time 0:0:2.697362402 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.697362402 
+DEBUG (1): Packet sent... at time 0:0:2.702687688 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.702687688 
+DEBUG (1): Packet sent... at time 0:0:2.712239635 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.712239635 
+DEBUG (1): Packet sent... at time 0:0:2.720448815 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.720448815 
+DEBUG (1): Packet sent... at time 0:0:2.728062906 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.728062906 
+DEBUG (1): Packet sent... at time 0:0:2.733266123 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.733266123 
+DEBUG (1): Packet sent... at time 0:0:2.744404974 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.744404974 
+DEBUG (1): Packet sent... at time 0:0:2.753148209 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.753148209 
+DEBUG (1): Packet sent... at time 0:0:2.758839704 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.758839704 
+DEBUG (1): Packet sent... at time 0:0:2.767415094 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.767415094 
+DEBUG (1): Packet sent... at time 0:0:2.775013926 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.775013926 
+DEBUG (1): Packet sent... at time 0:0:2.780125591 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.780125591 
+DEBUG (1): Packet sent... at time 0:0:2.782185515 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.782185515 
+DEBUG (1): Packet sent... at time 0:0:2.792195223 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.792195223 
+DEBUG (1): Packet sent... at time 0:0:2.795781017 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.795781017 
+DEBUG (1): Packet sent... at time 0:0:2.797642578 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.797642578 
+DEBUG (1): Packet sent... at time 0:0:2.808766171 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.808766171 
+DEBUG (1): Packet sent... at time 0:0:2.814167751 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.814167751 
+DEBUG (1): Packet sent... at time 0:0:2.818531739 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.818531739 
+DEBUG (1): Packet sent... at time 0:0:2.829594296 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.829594296 
+DEBUG (1): Packet sent... at time 0:0:2.833073280 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.833073280 
+DEBUG (1): Packet sent... at time 0:0:2.841221426 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.841221426 
+DEBUG (1): Packet sent... at time 0:0:2.849094915 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.849094915 
+DEBUG (1): Packet sent... at time 0:0:2.853275799 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.853275799 
+DEBUG (1): Packet sent... at time 0:0:2.859180916 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.859180916 
+DEBUG (1): Packet sent... at time 0:0:2.861881705 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.861881705 
+DEBUG (1): Packet sent... at time 0:0:2.868809155 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.868809155 
+DEBUG (1): Packet sent... at time 0:0:2.879536021 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.879536021 
+DEBUG (1): Packet sent... at time 0:0:2.888874346 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.888874346 
+DEBUG (1): Packet sent... at time 0:0:2.895893348 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.895893348 
+DEBUG (1): Packet sent... at time 0:0:2.902759763 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.902759763 
+DEBUG (1): Packet sent... at time 0:0:2.905918314 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.905918314 
+DEBUG (1): Packet sent... at time 0:0:2.912082828 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.912082828 
+DEBUG (1): Packet sent... at time 0:0:2.916477334 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.916477334 
+DEBUG (1): Packet sent... at time 0:0:2.918308378 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.918308378 
+DEBUG (1): Packet sent... at time 0:0:2.926166609 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.926166609 
+DEBUG (1): Mote 1, Timer fired, counter is 3.
+DEBUG (1): Packet sent... at time 0:0:2.932849919 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.932849919 
+DEBUG (1): Packet sent... at time 0:0:2.938220982 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.938220982 
+DEBUG (1): Packet sent... at time 0:0:2.945117914 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.945117914 
+DEBUG (1): Packet sent... at time 0:0:2.952732005 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.952732005 
+DEBUG (1): Packet sent... at time 0:0:2.958011515 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.958011515 
+DEBUG (1): Packet sent... at time 0:0:2.962772230 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.962772230 
+DEBUG (1): Packet sent... at time 0:0:2.972766678 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.972766678 
+DEBUG (1): Packet sent... at time 0:0:2.980045078 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.980045078 
+DEBUG (1): Packet sent... at time 0:0:2.988116931 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.988116931 
+DEBUG (1): Packet sent... at time 0:0:2.992099451 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.992099451 
+DEBUG (1): Packet sent... at time 0:0:2.993869460 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.993869460 
+DEBUG (1): Packet sent... at time 0:0:2.996295594 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.996295594 
+DEBUG (1): Packet sent... at time 0:0:2.999835612 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:2.999835612 
+DEBUG (2): Application booted.
+DEBUG (2): Radio on on node 2!
+DEBUG (2): Received packet at time 0:0:3.009204454 at mote 2
+DEBUG (2): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 1 
+		 msg_counter: 3 
+		 msg_value: 0 
+DEBUG (1): Packet sent... at time 0:0:3.009372300 
+DEBUG (1): Packet sent from Mote 1 acknowledged by Mote 2, acks received at Mote 1: 1
+DEBUG (2): value read done 76.937514
+DEBUG (2): Sending packet RESP from mote 2 to mote 1 at time 0:0:3.018554697 
+DEBUG (1): Received packet at time 0:0:3.029144235 at mote 1
+DEBUG (1): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 2 
+		 msg_counter: 3 
+		 msg_value: 76 
+DEBUG (2): Packet sent... at time 0:0:3.029312081 
+DEBUG (2): Packet sent from mote 2 acknowledged by mote 1
+DEBUG (1): Mote 1, Timer fired, counter is 4.
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:3.906250010 
+DEBUG (2): Received packet at time 0:0:3.907974243 at mote 2
+DEBUG (2): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 1 
+		 msg_counter: 4 
+		 msg_value: 0 
+DEBUG (1): Packet sent... at time 0:0:3.908142088 
+DEBUG (1): Packet sent from Mote 1 acknowledged by Mote 2, acks received at Mote 1: 2
+DEBUG (2): value read done 69.073014
+DEBUG (2): Sending packet RESP from mote 2 to mote 1 at time 0:0:3.916992197 
+DEBUG (1): Received packet at time 0:0:3.921936016 at mote 1
+DEBUG (1): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 2 
+		 msg_counter: 4 
+		 msg_value: 69 
+DEBUG (2): Packet sent... at time 0:0:3.922103862 
+DEBUG (2): Packet sent from mote 2 acknowledged by mote 1
+DEBUG (1): Mote 1, Timer fired, counter is 5.
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:4.882812510 
+DEBUG (2): Received packet at time 0:0:4.889099094 at mote 2
+DEBUG (2): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 1 
+		 msg_counter: 5 
+		 msg_value: 0 
+DEBUG (1): Packet sent... at time 0:0:4.889266940 
+DEBUG (1): Packet sent from Mote 1 acknowledged by Mote 2, acks received at Mote 1: 3
+DEBUG (2): value read done 2.558938
+DEBUG (2): Sending packet RESP from mote 2 to mote 1 at time 0:0:4.898437510 
+DEBUG (1): Received packet at time 0:0:4.906829795 at mote 1
+DEBUG (1): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 2 
+		 msg_counter: 5 
+		 msg_value: 2 
+DEBUG (2): Packet sent... at time 0:0:4.906997640 
+DEBUG (2): Packet sent from mote 2 acknowledged by mote 1
+DEBUG (1): Mote 1, Timer fired, counter is 6.
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:5.859375010 
+DEBUG (2): Received packet at time 0:0:5.861007690 at mote 2
+DEBUG (2): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 1 
+		 msg_counter: 6 
+		 msg_value: 0 
+DEBUG (1): Packet sent... at time 0:0:5.861175536 
+DEBUG (1): Packet sent from Mote 1 acknowledged by Mote 2, acks received at Mote 1: 4
+DEBUG (2): value read done 14.256504
+DEBUG (2): Sending packet RESP from mote 2 to mote 1 at time 0:0:5.870117197 
+DEBUG (1): Received packet at time 0:0:5.871917724 at mote 1
+DEBUG (1): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 2 
+		 msg_counter: 6 
+		 msg_value: 14 
+DEBUG (2): Packet sent... at time 0:0:5.872085569 
+DEBUG (2): Packet sent from mote 2 acknowledged by mote 1
+DEBUG (1): Mote 1, Timer fired, counter is 7.
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:6.835937510 
+DEBUG (1): Packet sent... at time 0:0:6.839385976 
+ERROR (1): Packet sent from mote 1 not acknowledged by mote 2
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:6.839385976 
+DEBUG (2): Received packet at time 0:0:6.850204394 at mote 2
+DEBUG (2): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 1 
+		 msg_counter: 7 
+		 msg_value: 0 
+DEBUG (1): Packet sent... at time 0:0:6.850372240 
+DEBUG (1): Packet sent from Mote 1 acknowledged by Mote 2, acks received at Mote 1: 5
+DEBUG (2): value read done 15.049973
+DEBUG (2): Sending packet RESP from mote 2 to mote 1 at time 0:0:6.859375010 
+DEBUG (1): Received packet at time 0:0:6.865051246 at mote 1
+DEBUG (1): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 2 
+		 msg_counter: 7 
+		 msg_value: 15 
+DEBUG (2): Packet sent... at time 0:0:6.865219092 
+DEBUG (2): Packet sent from mote 2 acknowledged by mote 1
+DEBUG (1): Mote 1, Timer fired, counter is 8.
+DEBUG (1): Sending packet of type REQ from Mote 1 to Mote 2 at time 0:0:7.812500010 
+DEBUG (2): Received packet at time 0:0:7.815261834 at mote 2
+DEBUG (2): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 1 
+		 msg_counter: 8 
+		 msg_value: 0 
+DEBUG (1): Packet sent... at time 0:0:7.815429680 
+DEBUG (1): Packet sent from Mote 1 acknowledged by Mote 2, acks received at Mote 1: 6
+DEBUG (1): LAST ACK RECEIVED, TIMER STOPPED AT TIME: 0:0:7.815429680
+DEBUG (2): value read done 56.385138
+DEBUG (2): Sending packet RESP from mote 2 to mote 1 at time 0:0:7.824218760 
+DEBUG (1): Received packet at time 0:0:7.831527677 at mote 1
+DEBUG (1): >>>Pack 
+ 	 Payload length 5 
+		 Payload 
+		 msg_type: 2 
+		 msg_counter: 8 
+		 msg_value: 56 
+DEBUG (2): Packet sent... at time 0:0:7.831695523 
+DEBUG (2): Packet sent from mote 2 acknowledged by mote 1
